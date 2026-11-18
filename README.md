@@ -1,4 +1,3 @@
-# Evaluación Sumativa 3 (ES3): Consumo de APIs, Persistencia Relacional y Autenticación Criptográfica
 ## Asignatura: Programación Orientada a Objeto Seguro (TI3021) - INACAP
 
 ---
